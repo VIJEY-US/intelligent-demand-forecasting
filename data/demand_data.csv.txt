@@ -1,0 +1,7 @@
+Date,Product,Location,Demand,Stock
+2024-01-01,Product A,New York,500,700
+2024-01-02,Product A,New York,450,650
+2024-01-03,Product A,New York,520,680
+2024-01-01,Product B,Los Angeles,300,500
+2024-01-02,Product B,Los Angeles,320,480
+2024-01-03,Product B,Los Angeles,350,510

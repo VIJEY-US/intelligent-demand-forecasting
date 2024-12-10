@@ -1,0 +1,8 @@
+provider "aws" {
+  region = "us-east-1"
+}
+
+resource "aws_sagemaker_model" "demand_forecast_model" {
+  name = "demand-forecast-model"
+  execution_role_arn = "arn:aws:iam::123456789012:role/sagemaker-execution-role"
+}

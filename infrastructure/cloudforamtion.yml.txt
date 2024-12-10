@@ -1,0 +1,5 @@
+Resources:
+  DemandForecastBucket:
+    Type: "AWS::S3::Bucket"
+    Properties:
+      BucketName: "demand-forecasting-data-bucket"
